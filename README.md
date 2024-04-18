@@ -1,0 +1,3 @@
+These projects are from a Data Science and Machine Learning course in 42 Madrid Telefónica, focused on managing, extracting and presenting interesting data from a PostgreSQL database and training machine learning models. The database was run as a docker container mapped to a local volume and managed with PgAdmin from another Docker container over a Docker network. Python virtual environment was used to generate the Python runtime environment. The data used for the database portions of the course were .csv files with millions of entries, which have been pared down to only the first thousand entries due to their size.
+
+
